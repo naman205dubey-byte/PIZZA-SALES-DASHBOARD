@@ -107,7 +107,7 @@ Business Impact & Insights
 
 ### Screenshots / Demos
  
-   EXAMPLE :https://github.com/naman205dubey-byte/PIZZA-SALES-DASHBOARD/blob/main/PIZZA%20DASHBOARD.png
+   EXAMPLE :![DASHBOARD SCREENSHOT](https://github.com/naman205dubey-byte/PIZZA-SALES-DASHBOARD/raw/main/PIZZA%20DASHBOARD.png)
 
 
 
