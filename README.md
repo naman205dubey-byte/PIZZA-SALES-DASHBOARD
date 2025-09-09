@@ -106,8 +106,7 @@ Business Impact & Insights
 🍕 Menu Strategy – Smaller size pizzas (L & M) dominate demand, guiding inventory and pricing decisions.
 
 ### Screenshots / Demos
-   Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-
+ 
    EXAMPLE :https://github.com/naman205dubey-byte/PIZZA-SALES-DASHBOARD/blob/main/PIZZA%20DASHBOARD.png
 
 
